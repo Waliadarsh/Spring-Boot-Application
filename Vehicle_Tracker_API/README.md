@@ -14,7 +14,6 @@ A RESTful Spring Boot application to manage vehicle details for a vehicle organi
 
 ## API includes
 
-- Authentication
 - CRUD Operations
 - Validation
 - Documentation
